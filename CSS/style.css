@@ -3,11 +3,11 @@
 
 h2{
     width: 100%;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 22px;
     font-weight: 700;
     margin-bottom: 5px;
-    letter-spacing: 3px;
+    letter-spacing: 2px;
     
 }
 h2::after{
@@ -32,7 +32,7 @@ li{
     color: white;
 }
 .left_conteiner > div{
-    margin-bottom: 30px;
+    margin-bottom: 22px;
 }
 main{
     display: flex;
